@@ -7,7 +7,7 @@ typedef long long ll;
  * Công thức mã hóa: E(x) = (a * x + b) mod 26
  * Công thức giải mã: D(x) = a⁻¹ * (x - b) mod 26
  * Yêu cầu: Viết hàm mã hóa và giải mã với tham số a, b (a phải nguyên tố cùng 26).
- * Ví dụ: "HELLO" → mã hóa → "RCWWA" với a=5, b=8
+ * Ví dụ: "HELLO" → mã hóa → "RCLLA" với a=5, b=8
  */
 
 int main(){
